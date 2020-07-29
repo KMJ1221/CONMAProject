@@ -1,9 +1,8 @@
 ## 서울시 내 등산로 추천 서비스 '<i>CONMA</i>'
 
-<center><img src="챗봇용 로고.png" alt="My Image"></center>
+<center><img src="CONMA.png" alt="My Image"></center>
 
 ### Summary
 
-CONMA는 사용자의 신체 정보(키, 몸무게, 컨디션)를 받아 등산로를 추천해주는 서비스 입니다. 
-코로나와 일상에 지친 2030세대를 대상으로, '등산을 통해 일상 속 휴식을 실현하자'라는 모토로 제작하였습니다.
-
+CONMA는 Decision Tree를 기반으로 사용자의 신체데이터(키, 몸무게, 컨디션)을 받아 현재 등반하기 좋은 서울시 내 등산로를 추천해주는 서비스 입니다.
+-
