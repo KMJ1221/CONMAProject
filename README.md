@@ -1,2 +1,4 @@
-# CONMA Project
- application for hikers
+# 서울시 내 등산로 추천 서비스 'CONMA'
+
+
+
