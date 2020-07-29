@@ -1,5 +1,5 @@
 ## 서울시 내 등산로 추천 서비스 '<i>CONMA</i>'
 ### Summary
-<img src="챗봇용 로고.png" alt="My Image">
+<center><img src="챗봇용 로고.png" alt="My Image"></center>
 
 ------------------------------------------------------------------
